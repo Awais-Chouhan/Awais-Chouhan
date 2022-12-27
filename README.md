@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/awais-chouhan/**
+- 📫 How to reach me **awaismunirqwe82@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😅**
 
