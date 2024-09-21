@@ -4,18 +4,19 @@
 I'm a software developer currently working at **Techloyce**, where I specialize in **third-party integrations** using **React** and **Node.js**. With over a year of hands-on experience, I enjoy tackling complex challenges and creating efficient solutions.
 
 ## Skills
-- **Programming Languages:** JavaScript, React, Node.js
+- **Programming Languages:** JavaScript, React, Node.js, Java
 - **Cloud Services:** AWS Lambda
 - **Email & PDF Templates:** Design and implementation
 - **Integrations:** Working with various third-party APIs
 
 ## Let's Connect!
-Feel free to check out my repositories and reach out if you'd like to collaborate or just chat about technology!
-- 📫 How to reach me **awaismunirqwe82@gmail.com**
+Feel free to check out my repositories and reach out if you want to collaborate or chat about technology!
 
 <p align="left">
+<a 
 <a href="https://linkedin.com/in/awais-chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais-chouhan" height="30" width="30" /></a>
-<a href="https://instagram.com/meh_awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meh_awais" height="30" width="30" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="awaismunirqwe82@gmail.com" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
