@@ -16,7 +16,7 @@ Feel free to check out my repositories and reach out if you want to collaborate 
 <a 
 <a href="https://linkedin.com/in/awais-chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais-chouhan" height="30" width="30" /></a>
 <a href="mailto:awaismunirqwe82@gmail.com" target="blank">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" alt="awaismunirqwe82@gmail.com" height="30" width="40" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" alt="awaismunirqwe82@gmail.com" height="35" width="45" />
 </a>
 </a>
 </p>
