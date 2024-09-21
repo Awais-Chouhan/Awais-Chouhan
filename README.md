@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on my final year project that is a web based application **STEP WELL** implemented on MERN stack that is beneficial for both, NGOs who are looking for donations, as well as routine users who can donate.
+I'm a software developer currently working at **Techloyce**, where I specialize in **third-party integrations** using **React** and **Node.js**. With over a year of hands-on experience, I enjoy tackling complex challenges and creating efficient solutions.
 
-- 🌱 I’m currently learning **Mern stack**
-
-- 💬 Ask me about **react, java**
+## Skills
+- **Programming Languages:** JavaScript, React, Node.js
+- **Cloud Services:** AWS Lambda
+- **Email & PDF Templates:** Design and implementation
+- **Integrations:** Working with various third-party APIs
 
 - 📫 How to reach me **awaismunirqwe82@gmail.com**
 
